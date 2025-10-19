@@ -19,8 +19,9 @@
 //   Set<String> prodiSet = prodi;
 //   print(prodiSet);
 // }
+
 // b. yang terjadi sama seperti a. karena object tersebut sudah bertipe string
-// c. tidak terjadi eror karena object tersebut sudah bertipe string
+// c. tidak terjadi error karena object tersebut sudah bertipe string
 
 void main() {
   var prodi = {
